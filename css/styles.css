@@ -503,13 +503,13 @@ img {
     margin-bottom: 16px;
 }
 
+.footer-form-wrapper {
+    margin-left: 80px;
+}
+
 .footer-form {
     display: flex;
     gap: 24px;
-}
-
-.footer-form-label {
-
 }
 
 .footer-form-input {

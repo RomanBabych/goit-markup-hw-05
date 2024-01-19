@@ -541,7 +541,7 @@ img {
     border: none;
     border-radius: 4px;
     color: #ffffff;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
